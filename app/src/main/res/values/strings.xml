@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Offline Music Player</string>
+    <string name="permission_request_message">This app needs storage permission to access your music files.</string>
+    <string name="permission_denied_message">Permission denied. Cannot access music files.</string>
+</resources>
